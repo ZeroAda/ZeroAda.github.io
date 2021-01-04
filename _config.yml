@@ -7,24 +7,25 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: Zero
+SEOTitle: Zero | Orange's Space
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Zero
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  name: Orange Killer
+  email: adaqueen2001@outlook.com
+  github: ZeroAda
+  # twitter: dbtek
+  # pinterest: asd123
+  # linkedin: asd123
+  bio: Life without examination is not worth living
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
@@ -38,3 +39,12 @@ BASE_PATH:
 
 plugins:
   - jekyll-paginate
+
+
+# Friends
+friends: [
+    {
+        title: "Zero",
+        href: "https://ZeroAda.github.io/"
+    }
+]

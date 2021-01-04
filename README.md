@@ -3,6 +3,7 @@ dbyll
 
 Open source stylish, minimalistic theme for jekyll.  
 Demo: http://dbtek.github.io/dbyll/
+Zero: http://ZeroAda.github.io
 
 ## New
 - Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
