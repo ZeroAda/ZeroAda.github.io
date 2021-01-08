@@ -7,10 +7,10 @@ fullview: false
 Description: Causal Reasoning for research. 我们如何从data中提取因果关系?
 ---
 
+Cause and effect is what scientists really are doing. But how can we infer the data to cause and effect chain? There are infinite inferences.
+
 本文是做ENG2001 Research期间处理数据时对因果关系所作的阅读和思考：我们如何从data中提取因果关系？
 
-Cause and effect is what scientists really are doing.
-But how can we infer the data to cause and effect chain? There are infinite inferences.
 
 
 #### 因果推理
