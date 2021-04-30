@@ -19,5 +19,7 @@ eie2810实验过程一般是：
 
 EIE2050课上老师讲的解决问题的方法
 1. 准确定义问题：mathematically
-2. Solve It
+2. Input and output
+3. solve it
 way1：make your problem scalable，从小的解决再generalize
+比如设计单个加法器到32bit加法器
