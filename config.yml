@@ -21,7 +21,6 @@ params:
   author: Chenyi Li
   images:
     - '<link or path of image for opengraph, twitter-cards>'
-  DateFormat: May 17th 2022
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
@@ -76,10 +75,7 @@ params:
     hidden: true
     hiddenInList: true
     hiddenInSingle: true
-  editPost:
-    URL: 'https://github.com/<path_to_repo>/content'
-    Text: Suggest Changes
-    appendFilePath: true
+
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true

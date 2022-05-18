@@ -19,7 +19,7 @@ description = "Chenyi Li's Blog"
 keywords = [ "Blog", "Chenyi", "PaperMod" ]
 author = "Chenyi Li"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
-DateFormat = "May 17th 2022"
+
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
@@ -73,6 +73,10 @@ tocopen = false
   name = "github"
   url = "https://github.com/ZeroAda/"
 
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/chenyi-li-orange/"
+
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
 
@@ -86,11 +90,6 @@ SiteVerificationTag = "XYZabc"
   hidden = true
   hiddenInList = true
   hiddenInSingle = true
-
-  [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
-  Text = "Suggest Changes"
-  appendFilePath = true
 
   [params.fuseOpts]
   isCaseSensitive = false

@@ -1,8 +1,9 @@
 ---
 title: "About"
 url: "/about/"
-date: "2022-5-17"
+ShowReadingTime: false
 searchHidden: true
+
 ---
 
 Hi, I’m Chenyi Li. My current area of interest are Computational Neuroscience & Cognitive science, Creative Programming.
@@ -14,3 +15,7 @@ Hi, I’m Chenyi Li. My current area of interest are Computational Neuroscience 
 
 2019 - 2023 (expected)
 : **Bachelor of Engineering**, The Chinese University of Hong Kong, Shenzhen
+
+## Contact
+email
+: adaleelcy2001@gmail.com
