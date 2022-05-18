@@ -1,4 +1,4 @@
-baseURL = "https://ZeroAda.github.io"
+baseURL = "https://ZeroAda.github.io/"
 title = "Orange"
 paginate = 5
 theme = "PaperMod"

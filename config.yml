@@ -1,31 +1,29 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: 'https://ZeroAda.github.io/'
+title: Orange
 paginate: 5
 theme: PaperMod
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
 googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
-
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  env: production
+  title: Orange
+  description: Chenyi Li's Blog
+  keywords:
+    - Blog
+    - Chenyi
+    - PaperMod
+  author: Chenyi Li
+  images:
+    - '<link or path of image for opengraph, twitter-cards>'
+  DateFormat: May 17th 2022
+  defaultTheme: auto
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -38,27 +36,21 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
-
+    favicon: <link / abs url>
+    favicon16x16: <link / abs url>
+    favicon32x32: <link / abs url>
+    apple_touch_icon: apple-touch-icon.png
+    safari_pinned_tab: <link / abs url>
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
+    text: Orange
+    icon: apple-touch-icon.png
     iconHeight: 35
-
-  # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true
+    title: Orange
+    subtitle: Computer Engineering | Neuroscience
+    imageUrl: portrait.JPG
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -67,40 +59,27 @@ params:
         url: posts
       - name: Tags
         url: tags
-
-  # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
-
+    Content: "Welcome to my blog. I am Kiwi \U0001F95D"
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
-
+      url: 'https://github.com/ZeroAda/'
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: XYZabc
     bing:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: XYZabc
     yandex:
-      SiteVerificationTag: "XYZabc"
-
+      SiteVerificationTag: XYZabc
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
+    URL: 'https://github.com/<path_to_repo>/content'
+    Text: Suggest Changes
+    appendFilePath: true
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -108,27 +87,22 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 10
-    - identifier: tags
+    - identifier: Tags
       name: tags
       url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
       weight: 30
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 40
