@@ -28,20 +28,7 @@ Discrete Fourier transformation When we can only sample data from the signals, w
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ZeroAda.github.io/posts/mandelbrot_set/</guid>
-      <description>空间上的分形和时间上的混沌有相似性。一个动力方程是时间上的混沌，会收敛到吸引子，根据此画出的动力平面和参数平面是空间上的分形。  Mandelbrot Set 复迭代 有一个关于z的复映射with 参数c如下：
-$$f_c(z) = z^2 +c$$
-我们想要知道在参数平面中临界点$z = 0$的轨迹是否有界，即
-对于一个c，根据迭代规则
-$$z_{n+1} = z_{n}^2 + c$$
-生成的序列${x_0,x_1,&amp;hellip;} -&amp;gt; \infty$,则无界,$c \notin M,$ 如果序列有界，则$c \in M$。
-另外我们还想要知道在动力平面中$c \in C$, 不同z0 的值产生的轨迹是否有界，此时$z_0 \in Julia,$ 如果序列有界，$z_0 \notin Julia$ 如果序列无界。
-Algorithm 逃逸时间算法 为了绘制参数平面中的M集，我们需要确定每个c是否属于M集，这里用到了逃逸时间算法。
-逃逸准则
-对于一个复数$z_n = x_n +iy_n$, 模$|z_n| = \sqrt {x_n^2 + y_n^2}$。我们claim：
-如果对于一个复数序列 ${z1,z2&amp;hellip;zn}$ 有$|z_j| &amp;gt; max(2,|c|)$则序列将逃逸到无穷大。
-证明
-当 $|z_j| &amp;gt; max(2,|c|)$, 则
-  由$|z_j|&amp;gt;2$ 可知 $|z_j| = 2+e,$ for $e\in \R^+$</description>
+      <description>Use Matlab to create Mandelbrot Set.</description>
     </item>
     
     <item>
@@ -54,6 +41,15 @@ Algorithm 逃逸时间算法 为了绘制参数平面中的M集，我们需要�
 Education  2022 Visiting Student, University of California, Berkeley 2019 - 2023 (expected) Bachelor of Engineering, The Chinese University of Hong Kong, Shenzhen  Contact  email adaleelcy2001@gmail.com  </description>
     </item>
     
+    
+    <item>
+      <title>Creative Programming</title>
+      <link>https://ZeroAda.github.io/creative_programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/creative_programming/</guid>
+      <description>A list of all of creative programming piece.</description>
+    </item>
     
   </channel>
 </rss>
