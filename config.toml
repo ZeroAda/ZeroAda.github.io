@@ -37,11 +37,11 @@ tocopen = false
 
 
   [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
+  favicon = "apple-touch-icon.png"
+  favicon16x16 = "apple-touch-icon.png"
+  favicon32x32 = "apple-touch-icon.png"
   apple_touch_icon = "apple-touch-icon.png"
-  safari_pinned_tab = "<link / abs url>"
+  safari_pinned_tab = "apple-touch-icon.png"
 
   [params.label]
   text = "Orange"
@@ -57,13 +57,7 @@ tocopen = false
   imageHeight = 120
   imageTitle = "my image"
 
-    [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
 
-    [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "tags"
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
@@ -107,13 +101,19 @@ url = "/about/"
 weight = 10
 
 [[menu.main]]
-identifier = "Tags"
-name = "tags"
+identifier = "tags"
+name = "Tags"
 url = "/tags/"
-weight = 30
+weight = 40
 
 [[menu.main]]
-identifier = "archive"
-name = "Archive"
-url = "/archive/"
-weight = 40
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 20
+
+[[menu.main]]
+identifier = "creative_programming"
+name = "Creative"
+url = "/creative_programming/"
+weight = 30

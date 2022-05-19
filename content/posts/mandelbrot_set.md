@@ -11,6 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
+description: Use Matlab to create Mandelbrot Set.
 
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
@@ -165,25 +166,20 @@ title( sprintf( '%1.2fsecs (without CPU)', cpuTime ) );
 
 R = 2
 
-![](/img/post/mandelbrot/r=100.PNG)
+![r=100](/img/mandelbrot_set/r=100.PNG)
 
 
 R = 1000
 
-![](/img/post/mandelbrot/r=1000.PNG)
-
-
-$$z = z^3 +c$$
-
-![](/img/post/mandelbrot/z3.tif)
+![r=1000](/img/mandelbrot_set/r=1000.PNG)
 
 $$z = z^4 +c$$
 
-![](/img/post/mandelbrot/z4.PNG)
+![z4](/img/mandelbrot_set/z4.PNG)
 
 **增大gridSize分辨率观察自相似性**
 
-![](/img/post/mandelbrot/zoomin.PNG)
+![](/img/mandelbrot_set/zoomin.PNG)
 
 
 ### Mandelbrot set 稳定周期
@@ -191,7 +187,7 @@ $$z = z^4 +c$$
 - 大心脏内的c产生的序列收敛到1个accumulation point，这个圆盘是个1-周期圆盘！
 - 其他！
   
-![](/img/post/mandelbrot/稳定周期.png)
+![稳定周期](/img/mandelbrot_set/稳定周期.png)
 
 
 **tips**
