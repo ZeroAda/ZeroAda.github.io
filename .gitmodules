@@ -1,3 +1,6 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/ZeroAda/hugo-PaperMod.git
+[submodule "PaperMod"]
+	path = PaperMod
+	url = C:\\work\\Hugo\\Sites\\orange\\themes\\PaperMod
