@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Orange</title>
+    <link>https://ZeroAda.github.io/tags/</link>
+    <description>Recent content in Tags on Orange</description>
+    <image>
+      <url>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Signal Processing</title>
+      <link>https://ZeroAda.github.io/tags/signal-processing/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/tags/signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>https://ZeroAda.github.io/tags/math/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/tags/math/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

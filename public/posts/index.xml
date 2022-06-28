@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Orange</title>
+    <link>https://ZeroAda.github.io/posts/</link>
+    <description>Recent content in Posts on Orange</description>
+    <image>
+      <url>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fourier Transform</title>
+      <link>https://ZeroAda.github.io/posts/fourier_transform/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/fourier_transform/</guid>
+      <description>Cute Fourier Transformation coming !  Fourier transformation $X(t)$ is the amplitude-time function, we want to transform this into frequency domain. Typically, we want to decompose the function into several sine and cosine function with different frequency, phase and amplitude. $F$ represents the frequency we focus on.
+$$X(F) = \int_{-\infty}^{+\infty} X(t) e ^{-i2\pi Ft}dt$$
+The dot product verifies the similarity of the analysis function and the amplitude-time function.
+Discrete Fourier transformation When we can only sample data from the signals, we replace the X with the folowwing.</description>
+    </item>
+    
+    <item>
+      <title>Mandelbrot Set</title>
+      <link>https://ZeroAda.github.io/posts/mandelbrot_set/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/mandelbrot_set/</guid>
+      <description>Use Matlab to create Mandelbrot Set.</description>
+    </item>
+    
+  </channel>
+</rss>
