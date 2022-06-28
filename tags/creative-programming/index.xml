@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Creative Programming on Orange</title>
+    <link>https://ZeroAda.github.io/tags/creative-programming/</link>
+    <description>Recent content in Creative Programming on Orange</description>
+    <image>
+      <url>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ZeroAda.github.io/tags/creative-programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music Garden</title>
+      <link>https://ZeroAda.github.io/projects/music_garden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/projects/music_garden/</guid>
+      <description>A garden of music</description>
+    </item>
+    
+  </channel>
+</rss>

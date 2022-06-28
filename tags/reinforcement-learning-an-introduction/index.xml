@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reinforcement Learning: an Introduction on Orange</title>
+    <link>https://ZeroAda.github.io/tags/reinforcement-learning-an-introduction/</link>
+    <description>Recent content in Reinforcement Learning: an Introduction on Orange</description>
+    <image>
+      <url>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/tags/reinforcement-learning-an-introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic Programming for MDP</title>
+      <link>https://ZeroAda.github.io/posts/dp_for_mdp/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/dp_for_mdp/</guid>
+      <description>Before we delve into solving MDP by dynamic programming, let&amp;rsquo;s review concepts in MDP! We have defined the value function for each states if we follow the policy $\pi$ as the expected return: $$ v_{\pi}(s) = E_{\pi}[G_t|S_t = s] = E_{\pi}[\sum_{k=0}^{\infty} \sigma^k R_{t+k+1}|S_t = s]$$
+The state-value function for policy $\pi$ is: $$q_{\pi}(s,a)=E_{\pi}[G_t|S_t = s,A_t=a]=E_{\pi}[\sum_{k=0}^{\infty} \sigma^k R_{t+k+1}|S_t = s,A_t=a]$$
+There are recursive properties for value function and state-action functions. We will encounter them many times afterwards.</description>
+    </item>
+    
+  </channel>
+</rss>

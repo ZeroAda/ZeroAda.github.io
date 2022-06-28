@@ -16,7 +16,7 @@
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ZeroAda.github.io/posts/fourier_transform/</guid>
-      <description>Cute Fourier Transformation coming !  Fourier transformation $X(t)$ is the amplitude-time function, we want to transform this into frequency domain. Typically, we want to decompose the function into several sine and cosine function with different frequency, phase and amplitude. $F$ represents the frequency we focus on.
+      <description>Cute Fourier Transformation coming ! Fourier transformation $X(t)$ is the amplitude-time function, we want to transform this into frequency domain. Typically, we want to decompose the function into several sine and cosine function with different frequency, phase and amplitude. $F$ represents the frequency we focus on.
 $$X(F) = \int_{-\infty}^{+\infty} X(t) e ^{-i2\pi Ft}dt$$
 The dot product verifies the similarity of the analysis function and the amplitude-time function.
 Discrete Fourier transformation When we can only sample data from the signals, we replace the X with the folowwing.</description>

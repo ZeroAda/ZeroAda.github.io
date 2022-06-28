@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ZeroAda.github.io/posts/dp_for_mdp/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ZeroAda.github.io/posts/fourier_transform/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,6 +12,9 @@
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ZeroAda.github.io/posts/</loc>
+    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/tags/reinforcement-learning-an-introduction/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ZeroAda.github.io/tags/signal-processing/</loc>
@@ -27,8 +33,20 @@
   </url><url>
     <loc>https://ZeroAda.github.io/archive/</loc>
   </url><url>
+    <loc>https://ZeroAda.github.io/tags/art/</loc>
+  </url><url>
     <loc>https://ZeroAda.github.io/categories/</loc>
   </url><url>
+    <loc>https://ZeroAda.github.io/tags/creative-programming/</loc>
+  </url><url>
     <loc>https://ZeroAda.github.io/creative_programming/</loc>
+  </url><url>
+    <loc>https://ZeroAda.github.io/projects/music_garden/</loc>
+  </url><url>
+    <loc>https://ZeroAda.github.io/projects/</loc>
+  </url><url>
+    <loc>https://ZeroAda.github.io/search/</loc>
+  </url><url>
+    <loc>https://ZeroAda.github.io/projects/what_to_do/</loc>
   </url>
 </urlset>

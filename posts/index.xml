@@ -11,12 +11,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dynamic Programming for MDP</title>
+      <link>https://ZeroAda.github.io/posts/dp_for_mdp/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/dp_for_mdp/</guid>
+      <description>Before we delve into solving MDP by dynamic programming, let&amp;rsquo;s review concepts in MDP! We have defined the value function for each states if we follow the policy $\pi$ as the expected return: $$ v_{\pi}(s) = E_{\pi}[G_t|S_t = s] = E_{\pi}[\sum_{k=0}^{\infty} \sigma^k R_{t+k+1}|S_t = s]$$
+The state-value function for policy $\pi$ is: $$q_{\pi}(s,a)=E_{\pi}[G_t|S_t = s,A_t=a]=E_{\pi}[\sum_{k=0}^{\infty} \sigma^k R_{t+k+1}|S_t = s,A_t=a]$$
+There are recursive properties for value function and state-action functions. We will encounter them many times afterwards.</description>
+    </item>
+    
+    <item>
       <title>Fourier Transform</title>
       <link>https://ZeroAda.github.io/posts/fourier_transform/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ZeroAda.github.io/posts/fourier_transform/</guid>
-      <description>Cute Fourier Transformation coming !  Fourier transformation $X(t)$ is the amplitude-time function, we want to transform this into frequency domain. Typically, we want to decompose the function into several sine and cosine function with different frequency, phase and amplitude. $F$ represents the frequency we focus on.
+      <description>Cute Fourier Transformation coming ! Fourier transformation $X(t)$ is the amplitude-time function, we want to transform this into frequency domain. Typically, we want to decompose the function into several sine and cosine function with different frequency, phase and amplitude. $F$ represents the frequency we focus on.
 $$X(F) = \int_{-\infty}^{+\infty} X(t) e ^{-i2\pi Ft}dt$$
 The dot product verifies the similarity of the analysis function and the amplitude-time function.
 Discrete Fourier transformation When we can only sample data from the signals, we replace the X with the folowwing.</description>
