@@ -2,25 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ZeroAda.github.io/tags/data-analysis/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/summer_camp3/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/tags/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/eligibility_traces/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/experience_replay/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/meta_rl/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/tags/reinforcement-learning-an-introduction/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/summer_camp2/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/policy_gradient/</loc>
+    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/monte_carlo/</loc>
+    <lastmod>2022-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/tags/phd/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/phd_application_diary/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/summer_camp1/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZeroAda.github.io/posts/sequence_decision/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ZeroAda.github.io/posts/dp_for_mdp/</loc>
-    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ZeroAda.github.io/posts/fourier_transform/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ZeroAda.github.io/</loc>
-    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ZeroAda.github.io/posts/</loc>
-    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ZeroAda.github.io/tags/reinforcement-learning-an-introduction/</loc>
-    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ZeroAda.github.io/tags/signal-processing/</loc>
-    <lastmod>2021-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ZeroAda.github.io/tags/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ZeroAda.github.io/posts/mandelbrot_set/</loc>

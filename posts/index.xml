@@ -9,16 +9,142 @@
       <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer camp: R Day3</title>
+      <link>https://ZeroAda.github.io/posts/summer_camp3/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/summer_camp3/</guid>
+      <description>Data analysis Warm up! We can use &amp;ldquo;describe&amp;rdquo; in psych package to see the number of participant, mean, std of a variable.
+library(psych) describe(penguins$body_mass_g) result
+vars n mean sd median trimmed mad min max range X1 1 342 4201.75 801.95 4050 4154.01 889.56 2700 6300 3600 skew kurtosis se X1 0.47 -0.74 43.36 What is TIDY DATA Every column is a variable Every row is an observation Every cell has one value It will benefit a lot if we deal with tidy data, for example, easy for data sharing, reproducible, easy to automate&amp;hellip; Data cleaning Remove data hierachically!</description>
+    </item>
+    
+    <item>
+      <title>Eligibility Trace, Andy Barto</title>
+      <link>https://ZeroAda.github.io/posts/eligibility_traces/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/eligibility_traces/</guid>
+      <description>Harry Klopf&amp;rsquo;s Hedonistic Hypothesis Neurons will maximize the local analog of pleasure and minimize the local analog of pain, i.e. it is a RL agent.
+specific hypothesis When a neuron fires an action potential, all the contributing synapses become eligible to undergo changes in their efficacies, or weights.
+If the action potential is followed within an appropriate time period by an increase in reward, an efficacies of all eligible synapses increase (or decrease in the case of punishment).</description>
+    </item>
+    
+    <item>
+      <title>Experience Replay and Data Efficiency</title>
+      <link>https://ZeroAda.github.io/posts/experience_replay/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/experience_replay/</guid>
+      <description>To make better use of data, we can use experience replay to increase data efficiency.
+Experience replay We can put ${s,a,s&amp;rsquo;,r}$ pairs in the buffer and update Q using mini batch methods. To decrease noise in the replay, we average over several samples. (That&amp;rsquo;s why minibatch)
+Infer-Collect framework </description>
+    </item>
+    
+    <item>
+      <title>Meta Reinforcment Learning</title>
+      <link>https://ZeroAda.github.io/posts/meta_rl/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/meta_rl/</guid>
+      <description>Meta learning system This part is based on Lilian Weng&amp;rsquo;s post meta rl.
+Meta RL aims to adopt fast when new situations come.
+To make it fast for RL, we introduce inductive bias in the system.
+In meta-RL, we impose certain types of inductive biases from the task distribution and store them in memory. Which inductive bias to adopt at test time depends on the algorithm.
+In the training setting, there will be a distribution of environments.</description>
+    </item>
+    
+    <item>
+      <title>Summer camp: R Day2</title>
+      <link>https://ZeroAda.github.io/posts/summer_camp2/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/summer_camp2/</guid>
+      <description>Create dataframe Create variables ## i. name names &amp;lt;- c(&amp;#34;Ada&amp;#34;,&amp;#34;Robert&amp;#34;,&amp;#34;Mia&amp;#34;) ## ii. age ages &amp;lt;- c(20,21,22) ## iii. Factor, so that you can add levels that not exist in the data year &amp;lt;- c(&amp;#34;Freshman&amp;#34;,&amp;#34;Sophomore&amp;#34;,&amp;#34;Junior&amp;#34;) year &amp;lt;- factor(year, levels=c(&amp;#34;Freshman&amp;#34;,&amp;#34;Sophomore&amp;#34;, &amp;#34;Junior&amp;#34;,&amp;#34;Senior&amp;#34;)) Create dataframe students &amp;lt;- data.frame(names,ages,year) Query a dataframe students$names Set working dictory get working dicrectory
+getwd() set working directory
+setwd() or go to &amp;ldquo;session&amp;rdquo; and set working directory
+or build R file in the directory you want to work in</description>
+    </item>
+    
+    <item>
+      <title>Policy Gradient</title>
+      <link>https://ZeroAda.github.io/posts/policy_gradient/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/policy_gradient/</guid>
+      <description>Now, we want to parameterize the policy $\pi(a|s,\Theta) = Pr(A_t=a|S_t=s,\Theta_t=\Theta$ as long as it is differentiable. To find the best policy, we want to optimize according to $J$ using gradient ascent.
+$$ \Theta_{t+1} = \Theta + \alpha \nabla J(\Theta_t) $$
+Discrete action: Soft-max policy We compute preference $h(s,a,\Theta) = \Theta^T x(s,a)$. One of the most common way to parameterize policy is soft-max:
+$$ \pi (a|s,\Theta) = \frac{e^{h(s,a,\Theta)}}{\sum_b e^{h(s,b,\Theta)}} $$
+One advantage of soft max parameterization is that it can make the optimal determinstic policy.</description>
+    </item>
+    
+    <item>
+      <title>RL method overview</title>
+      <link>https://ZeroAda.github.io/posts/monte_carlo/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/monte_carlo/</guid>
+      <description>There are three kinds of RL in general. The first two are model-free methods.
+Value: Parameterize value function; Estimate value function $q$ to generate the best policy. Q learning, SARSA
+Policy: Parameterize policy gradient; Objective is to maximize the average return so that find the best policy directly; always combine with value-based method. Actor Critic
+Model: Parameterize the model; Improve model accuracy; always combine with value-based method. Dyna-Q &amp;amp; Dyna-Q+</description>
+    </item>
+    
+    <item>
+      <title>PhD Application Diary</title>
+      <link>https://ZeroAda.github.io/posts/phd_application_diary/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/phd_application_diary/</guid>
+      <description>7.6 方向：Cognitive Science, Neuroscience
+我想把一切都记录下来，无论结果是好是坏。我开始写PS。朋友收到了cuhk cse的面试，焦虑在心里生长。这几年的探索让我越发理解自己，如果不是想做(curious)的事情就不会去做的；而维持我工作的动力，很多时候来源于合作者，community的信任和支持；还有一些来自于，对自己special的认定。什么让我感到special and interesting 呢？If not MIT, would I accept a potential offer?
+除了外在的条件，怎样才算是准备好了申请PhD呢？
+了解自己想解决的具体问题 知道这个问题有哪些potential answer 知道谁在尝试解决这个问题 7.8 我这周写了Personal Statement，想修改一下交给Josh和学长修改一下。 我感到我申请什么东西都很难得到approval，比如CNeuro和stochastic lab。我有点担心自己申不到学校。怎么样才能做好准备呢？ 今天看到80000hours网上“如何建立你的career capital”，提到一个选择career的思路，是找personal fit和有影响力的问题之间的平衡点，我看到里面有几个我感兴趣的：
+AI safety
+AI sentient
+whole brain emulation 全脑模拟
+不管怎么样，对自己未来的道路保持开放。
+7.11 昨天和中介聊了聊，得到一些信息
+暑研要如何表现得好是需要刻意的，我自己想了想觉得需要 weekly report，及时反馈 多问问题 和妈妈聊了聊，需要知道中介的一些信息是
+选校选项目，是会根据我的情况给出prof和项目list，仍然由我自己一个个看吗？ 7.12 今天看了毕业设计的list，感觉有点难过，一是女性教授很少，只有一个，二是符合我research interest的很少很少。我不知道做这个项目能否增加我的能力。</description>
+    </item>
+    
+    <item>
+      <title>Summer camp: R Day1</title>
+      <link>https://ZeroAda.github.io/posts/summer_camp1/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/summer_camp1/</guid>
+      <description>Data type in the datasheet words: &amp;ldquo;California&amp;rdquo; categorical data: a / b / c logical: TRUE, FALSE number: 10 missing data: NA
+Hot key run one chunk in the scripts:
+ctrl + Enter run all chunks in the scripts:
+ctrl + Enter + Shift Data type in R vector
+vector &amp;lt;- c(&amp;#34;Ada&amp;#34;,&amp;#34;Emily&amp;#34;,&amp;#34;Jack&amp;#34;) if you combine different data types into one vector, you will get vector consist of string
+vector &amp;lt;- c(TRUE,&amp;#34;Ada&amp;#34;,10) factor</description>
+    </item>
+    
+    <item>
+      <title>How to make decisions in a bandit game?</title>
+      <link>https://ZeroAda.github.io/posts/sequence_decision/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/sequence_decision/</guid>
+      <description>short notes for sequencial decision making</description>
+    </item>
+    
     <item>
       <title>Dynamic Programming for MDP</title>
       <link>https://ZeroAda.github.io/posts/dp_for_mdp/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ZeroAda.github.io/posts/dp_for_mdp/</guid>
-      <description>Before we delve into solving MDP by dynamic programming, let&amp;rsquo;s review concepts in MDP! We have defined the value function for each states if we follow the policy $\pi$ as the expected return: $$ v_{\pi}(s) = E_{\pi}[G_t|S_t = s] = E_{\pi}[\sum_{k=0}^{\infty} \sigma^k R_{t+k+1}|S_t = s]$$
-The state-value function for policy $\pi$ is: $$q_{\pi}(s,a)=E_{\pi}[G_t|S_t = s,A_t=a]=E_{\pi}[\sum_{k=0}^{\infty} \sigma^k R_{t+k+1}|S_t = s,A_t=a]$$
-There are recursive properties for value function and state-action functions. We will encounter them many times afterwards.</description>
+      <description>Before we delve into solving MDP by dynamic programming, let&amp;rsquo;s review concepts in MDP!
+Markov Decision Process We can use MDP to describe our problems. It includes Action, State, Reward.
+Markov Property The next state could be fully derived by only the current state. $$P(s_t,r_t|s_{t-1}, a_{t-1}, \dots s_0) = P(s_t,r_t|s_{t-1},a_{t-1})$$
+Reward Hypothesis What we mean by goals and purposes can be well thought of as maximization of the expected value of the cumulative sum of a received scalar signal (reward).</description>
     </item>
     
     <item>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>data analysis on Orange</title>
+    <link>https://ZeroAda.github.io/tags/data-analysis/</link>
+    <description>Recent content in data analysis on Orange</description>
+    <image>
+      <url>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer camp: R Day3</title>
+      <link>https://ZeroAda.github.io/posts/summer_camp3/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/summer_camp3/</guid>
+      <description>Data analysis Warm up! We can use &amp;ldquo;describe&amp;rdquo; in psych package to see the number of participant, mean, std of a variable.
+library(psych) describe(penguins$body_mass_g) result
+vars n mean sd median trimmed mad min max range X1 1 342 4201.75 801.95 4050 4154.01 889.56 2700 6300 3600 skew kurtosis se X1 0.47 -0.74 43.36 What is TIDY DATA Every column is a variable Every row is an observation Every cell has one value It will benefit a lot if we deal with tidy data, for example, easy for data sharing, reproducible, easy to automate&amp;hellip; Data cleaning Remove data hierachically!</description>
+    </item>
+    
+    <item>
+      <title>Summer camp: R Day2</title>
+      <link>https://ZeroAda.github.io/posts/summer_camp2/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/summer_camp2/</guid>
+      <description>Create dataframe Create variables ## i. name names &amp;lt;- c(&amp;#34;Ada&amp;#34;,&amp;#34;Robert&amp;#34;,&amp;#34;Mia&amp;#34;) ## ii. age ages &amp;lt;- c(20,21,22) ## iii. Factor, so that you can add levels that not exist in the data year &amp;lt;- c(&amp;#34;Freshman&amp;#34;,&amp;#34;Sophomore&amp;#34;,&amp;#34;Junior&amp;#34;) year &amp;lt;- factor(year, levels=c(&amp;#34;Freshman&amp;#34;,&amp;#34;Sophomore&amp;#34;, &amp;#34;Junior&amp;#34;,&amp;#34;Senior&amp;#34;)) Create dataframe students &amp;lt;- data.frame(names,ages,year) Query a dataframe students$names Set working dictory get working dicrectory
+getwd() set working directory
+setwd() or go to &amp;ldquo;session&amp;rdquo; and set working directory
+or build R file in the directory you want to work in</description>
+    </item>
+    
+    <item>
+      <title>Summer camp: R Day1</title>
+      <link>https://ZeroAda.github.io/posts/summer_camp1/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/summer_camp1/</guid>
+      <description>Data type in the datasheet words: &amp;ldquo;California&amp;rdquo; categorical data: a / b / c logical: TRUE, FALSE number: 10 missing data: NA
+Hot key run one chunk in the scripts:
+ctrl + Enter run all chunks in the scripts:
+ctrl + Enter + Shift Data type in R vector
+vector &amp;lt;- c(&amp;#34;Ada&amp;#34;,&amp;#34;Emily&amp;#34;,&amp;#34;Jack&amp;#34;) if you combine different data types into one vector, you will get vector consist of string
+vector &amp;lt;- c(TRUE,&amp;#34;Ada&amp;#34;,10) factor</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,16 +9,86 @@
       <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/tags/reinforcement-learning-an-introduction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/tags/reinforcement-learning-an-introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eligibility Trace, Andy Barto</title>
+      <link>https://ZeroAda.github.io/posts/eligibility_traces/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/eligibility_traces/</guid>
+      <description>Harry Klopf&amp;rsquo;s Hedonistic Hypothesis Neurons will maximize the local analog of pleasure and minimize the local analog of pain, i.e. it is a RL agent.
+specific hypothesis When a neuron fires an action potential, all the contributing synapses become eligible to undergo changes in their efficacies, or weights.
+If the action potential is followed within an appropriate time period by an increase in reward, an efficacies of all eligible synapses increase (or decrease in the case of punishment).</description>
+    </item>
+    
+    <item>
+      <title>Experience Replay and Data Efficiency</title>
+      <link>https://ZeroAda.github.io/posts/experience_replay/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/experience_replay/</guid>
+      <description>To make better use of data, we can use experience replay to increase data efficiency.
+Experience replay We can put ${s,a,s&amp;rsquo;,r}$ pairs in the buffer and update Q using mini batch methods. To decrease noise in the replay, we average over several samples. (That&amp;rsquo;s why minibatch)
+Infer-Collect framework </description>
+    </item>
+    
+    <item>
+      <title>Meta Reinforcment Learning</title>
+      <link>https://ZeroAda.github.io/posts/meta_rl/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/meta_rl/</guid>
+      <description>Meta learning system This part is based on Lilian Weng&amp;rsquo;s post meta rl.
+Meta RL aims to adopt fast when new situations come.
+To make it fast for RL, we introduce inductive bias in the system.
+In meta-RL, we impose certain types of inductive biases from the task distribution and store them in memory. Which inductive bias to adopt at test time depends on the algorithm.
+In the training setting, there will be a distribution of environments.</description>
+    </item>
+    
+    <item>
+      <title>Policy Gradient</title>
+      <link>https://ZeroAda.github.io/posts/policy_gradient/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/policy_gradient/</guid>
+      <description>Now, we want to parameterize the policy $\pi(a|s,\Theta) = Pr(A_t=a|S_t=s,\Theta_t=\Theta$ as long as it is differentiable. To find the best policy, we want to optimize according to $J$ using gradient ascent.
+$$ \Theta_{t+1} = \Theta + \alpha \nabla J(\Theta_t) $$
+Discrete action: Soft-max policy We compute preference $h(s,a,\Theta) = \Theta^T x(s,a)$. One of the most common way to parameterize policy is soft-max:
+$$ \pi (a|s,\Theta) = \frac{e^{h(s,a,\Theta)}}{\sum_b e^{h(s,b,\Theta)}} $$
+One advantage of soft max parameterization is that it can make the optimal determinstic policy.</description>
+    </item>
+    
+    <item>
+      <title>RL method overview</title>
+      <link>https://ZeroAda.github.io/posts/monte_carlo/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/monte_carlo/</guid>
+      <description>There are three kinds of RL in general. The first two are model-free methods.
+Value: Parameterize value function; Estimate value function $q$ to generate the best policy. Q learning, SARSA
+Policy: Parameterize policy gradient; Objective is to maximize the average return so that find the best policy directly; always combine with value-based method. Actor Critic
+Model: Parameterize the model; Improve model accuracy; always combine with value-based method. Dyna-Q &amp;amp; Dyna-Q+</description>
+    </item>
+    
+    <item>
+      <title>How to make decisions in a bandit game?</title>
+      <link>https://ZeroAda.github.io/posts/sequence_decision/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/sequence_decision/</guid>
+      <description>short notes for sequencial decision making</description>
+    </item>
+    
     <item>
       <title>Dynamic Programming for MDP</title>
       <link>https://ZeroAda.github.io/posts/dp_for_mdp/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ZeroAda.github.io/posts/dp_for_mdp/</guid>
-      <description>Before we delve into solving MDP by dynamic programming, let&amp;rsquo;s review concepts in MDP! We have defined the value function for each states if we follow the policy $\pi$ as the expected return: $$ v_{\pi}(s) = E_{\pi}[G_t|S_t = s] = E_{\pi}[\sum_{k=0}^{\infty} \sigma^k R_{t+k+1}|S_t = s]$$
-The state-value function for policy $\pi$ is: $$q_{\pi}(s,a)=E_{\pi}[G_t|S_t = s,A_t=a]=E_{\pi}[\sum_{k=0}^{\infty} \sigma^k R_{t+k+1}|S_t = s,A_t=a]$$
-There are recursive properties for value function and state-action functions. We will encounter them many times afterwards.</description>
+      <description>Before we delve into solving MDP by dynamic programming, let&amp;rsquo;s review concepts in MDP!
+Markov Decision Process We can use MDP to describe our problems. It includes Action, State, Reward.
+Markov Property The next state could be fully derived by only the current state. $$P(s_t,r_t|s_{t-1}, a_{t-1}, \dots s_0) = P(s_t,r_t|s_{t-1},a_{t-1})$$
+Reward Hypothesis What we mean by goals and purposes can be well thought of as maximization of the expected value of the cumulative sum of a received scalar signal (reward).</description>
     </item>
     
   </channel>
