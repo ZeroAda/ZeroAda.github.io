@@ -20,7 +20,11 @@ Sept. 2019 - Jun. 2023
 **Core Course**: Graduate Course Advanced Machine Learning, Computer Vision, Neural system(A-), Machine Learning(B+), Signal Processing(A-), Data Structure(B+), Linear Algebra(A), Operating System(A-), Optimization(B+)       
 ***Dean's List (2019-2020, 2020-2021, top 25%)                                   Undergraduate Research Award (2020)***
 
+Aug.2-20 2021
+: [**Neuromatch Academy-Deep Learning Summer School 2021 Certificate of Completion**](https://portal.neuromatchacademy.org/certificate/3e84b5f0-7487-4b98-8822-82047f07b503)	
 
+Jun. - Aug. 2022
+: [**Reinforcement Learning Course Completion | University of Ulberta**](https://www.coursera.org/account/accomplishments/specialization/certificate/QD7Z3UF363QQ)
 ## Publication 📑
 Yu, Junjie, Chenyi Li, Kexin Lou, Chen Wei, and Quanying Liu. "Embedding decomposition for artifacts removal in EEG signals." Journal of Neural Engineering 19, no. 2 (2022): 026052
 
@@ -30,6 +34,13 @@ in EEG Signals](https://arxiv.org/abs/2112.00989)
 Code: [DeepSeparator](https://github.com/ncclabsustech/DeepSeparator)
 
 ## Research Experience 📚
+
+Sept. 2022 - Present
+: **Final Year Project | Generation and Analysis of Pixels, Points and Polygons Lab**     
+**Advisor**: Xiaoguang Han, Assistant Professor at School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen    
+•   Caricature-Visual Verification
+
+
 Jun. 2022 - Present
 : **Research Assistant | Cognitive Developmental and Learning Lab**		   	 	       
 **Advisor**: Alison Gopnik, Professor at Department of Psychology, University of California, Berkeley   
@@ -64,6 +75,11 @@ Dec. 2019 - Present
 : **Leader | uBuddies: CUHKSZ Peer Counseling Group**				  		       
 •	Created an innovative program, Final Week Program, to relieve students’ negative emotions when preparing for final exams  
 •	Provided peer counseling about emotion, self-development, friendship and intimate relationship over 10 hours
+
+July 2021-Sept. 2022
+: **Leader | Field Study on Female Family-Work Balance in Eastern China**	     			   
+•	Developed a comprehensive online survey for 518 subjects and conducted semi-structured interviews with 15 subjects      
+•	Conducted analysis using R on relationship between the industry and the challenge and support female get in maternity leave
 
 
 ## Skills 🪄
