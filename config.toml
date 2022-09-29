@@ -44,15 +44,15 @@ tocopen = false
   safari_pinned_tab = "apple-touch-icon.png"
 
   [params.label]
-  text = "Orange"
+  text = "Chenyi Li"
   icon = "apple-touch-icon.png"
   iconHeight = 35
 
   [params.profileMode]
   enabled = true
-  title = "Orange"
-  subtitle = "Computer Engineering | Neuroscience | Cognitive Science"
-  imageUrl = "portrait.JPG"
+  title = "Chenyi Li"
+  subtitle = "Computer Engineering | Neuroscience | Cognitive Neuroscience"
+  imageUrl = "sea3.jpg"
   imageWidth = 120
   imageHeight = 120
   imageTitle = "my image"
