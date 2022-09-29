@@ -24,7 +24,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ZeroAda.github.io/projects/music_garden/</guid>
-      <description>A garden of music</description>
+      <description>A garden of music —— Final Project of DES INV 23, UC Berkeley</description>
+    </item>
+    
+    <item>
+      <title>Music Source Separation</title>
+      <link>https://ZeroAda.github.io/music_sep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/music_sep/</guid>
+      <description>EIE3510 Signal Processing final project</description>
     </item>
     
     <item>
@@ -33,7 +42,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ZeroAda.github.io/projects/what_to_do/</guid>
-      <description>用反思的姿态对抗内卷</description>
+      <description>用反思的姿态对抗内卷——记大学艺术中心策展 Fight in a introspective way -- UAC activity</description>
     </item>
     
   </channel>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Presentations on Orange</title>
+    <link>https://ZeroAda.github.io/presentation/</link>
+    <description>Recent content in Presentations on Orange</description>
+    <image>
+      <url>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ZeroAda.github.io/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentation | EIE3510 Project Music Source Separation</title>
+      <link>https://ZeroAda.github.io/music_sep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/music_sep/</guid>
+      <description>Deep learning &#43; Traditional Methods</description>
+    </item>
+    
+    <item>
+      <title>Presentation | Learning to Reinforcement Learn</title>
+      <link>https://ZeroAda.github.io/ncc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/ncc1/</guid>
+      <description>Presentation in NCC Lab</description>
+    </item>
+    
+    <item>
+      <title>Presentation | The neural architecture of language-Integrative modeling converges on predictive processing</title>
+      <link>https://ZeroAda.github.io/ncc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/ncc2/</guid>
+      <description>Presentation in NCC Lab</description>
+    </item>
+    
+  </channel>
+</rss>

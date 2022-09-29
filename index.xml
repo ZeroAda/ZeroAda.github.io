@@ -191,12 +191,57 @@ Education ✍️ Jan. 2022 - Aug. 2022 Visiting Student, University of Californi
     </item>
     
     <item>
+      <title>Embedding Decomposition for Artifacts Removal in EEG Signals</title>
+      <link>https://ZeroAda.github.io/eegdenoise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/eegdenoise/</guid>
+      <description>A novel deep leaning to denoise single-channel EEG with high interpretability</description>
+    </item>
+    
+    <item>
       <title>Music Garden</title>
       <link>https://ZeroAda.github.io/projects/music_garden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ZeroAda.github.io/projects/music_garden/</guid>
-      <description>A garden of music</description>
+      <description>A garden of music —— Final Project of DES INV 23, UC Berkeley</description>
+    </item>
+    
+    <item>
+      <title>Music Source Separation</title>
+      <link>https://ZeroAda.github.io/music_sep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/music_sep/</guid>
+      <description>EIE3510 Signal Processing final project</description>
+    </item>
+    
+    <item>
+      <title>Presentation | EIE3510 Project Music Source Separation</title>
+      <link>https://ZeroAda.github.io/music_sep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/music_sep/</guid>
+      <description>Deep learning &#43; Traditional Methods</description>
+    </item>
+    
+    <item>
+      <title>Presentation | Learning to Reinforcement Learn</title>
+      <link>https://ZeroAda.github.io/ncc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/ncc1/</guid>
+      <description>Presentation in NCC Lab</description>
+    </item>
+    
+    <item>
+      <title>Presentation | The neural architecture of language-Integrative modeling converges on predictive processing</title>
+      <link>https://ZeroAda.github.io/ncc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/ncc2/</guid>
+      <description>Presentation in NCC Lab</description>
     </item>
     
     
@@ -206,7 +251,16 @@ Education ✍️ Jan. 2022 - Aug. 2022 Visiting Student, University of Californi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ZeroAda.github.io/projects/what_to_do/</guid>
-      <description>用反思的姿态对抗内卷</description>
+      <description>用反思的姿态对抗内卷——记大学艺术中心策展 Fight in a introspective way -- UAC activity</description>
+    </item>
+    
+    <item>
+      <title>受过高等教育的职场女性权衡生育与工作的现状研究 ——以东部城市为例  Field Study on Female Family-Work Balance in Eastern China</title>
+      <link>https://ZeroAda.github.io/female_work_life_balance_study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/female_work_life_balance_study/</guid>
+      <description>“知行”社会实践调查活动 Social Practice Activity</description>
     </item>
     
   </channel>
