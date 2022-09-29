@@ -104,18 +104,30 @@ weight = 10
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 50
+weight = 60
 
 [[menu.main]]
 identifier = "posts"
 name = "Posts"
 url = "/posts/"
-weight = 20
+weight = 50
 
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
 url = "/projects/"
+weight = 40
+
+[[menu.main]]
+identifier = "research"
+name = "Research"
+url = "/research/"
+weight = 20
+
+[[menu.main]]
+identifier = "presentation"
+name = "Presentation"
+url = "/presentation/"
 weight = 30
 
 [outputs]

@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: 用反思的姿态对抗内卷
+description: 用反思的姿态对抗内卷——记大学艺术中心策展 Fight in a introspective way -- UAC activity
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

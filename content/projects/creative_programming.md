@@ -1,6 +1,7 @@
 --- 
 title: Creative Programming
 layout: gallery
+date: 2022-10
 description: A list of all of creative programming piece at DES INV 23, UC Berkeley
 showReadingTime: false
 url: "/creative_programming"

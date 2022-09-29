@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: A garden of music
+description: A garden of music —— Final Project of DES INV 23, UC Berkeley
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

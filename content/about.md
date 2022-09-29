@@ -81,6 +81,15 @@ July 2021-Sept. 2022
 •	Developed a comprehensive online survey for 518 subjects and conducted semi-structured interviews with 15 subjects      
 •	Conducted analysis using R on relationship between the industry and the challenge and support female get in maternity leave
 
+## Presentation
+
+Aug. 2022
+: [**NCC Lab Presentation | Learning to Reinforcement Learn**](https://github.com/ZeroAda/ncc1)
+
+Dec. 2022
+: [**NCC Lab Presentation | The neural architecture of language: Integrative modeling converges on predictive processing**](https://github.com/ZeroAda/ncc2)
+
+
 
 ## Skills 🪄
 
