@@ -101,7 +101,7 @@ Game Creation
 
 ## Contact 📞
 email
-: 119010143@link.cuhk.edu.cn
+: 119010143@link.cuhk.edu.cn        adalee@berkeley.edu
 
 phone
 : +1 5107175011   +86 15858140435

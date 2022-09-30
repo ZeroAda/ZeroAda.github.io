@@ -4,7 +4,7 @@ title: Presentation | EIE3510 Project Music Source Separation
 description: Deep learning + Traditional Methods
 showReadingTime: false
 date: 2020-2
-url: "/music_sep"
+url: "/music_sep_pre"
 cover:
     image: "/img/music_sep/Slide1.PNG" # image path/url
     alt: "<alt text>" # alt text
@@ -13,6 +13,12 @@ cover:
     hidden: true # only hide on current single page
 tags: ["Reinforcement Learning"]
 ---
+
+This is my final project of the class EIE3510 Signal Processing. I compare two traditional method and one deep learning methods. It's a great journey to work with music! 
+
+Code: [Music Source separation](https://github.com/ZeroAda/EIE3510-Music-Separation)
+
+Report: [Music Source separation](https://zeroada.github.io/music_sep_report)
 
 ![](/img/music_sep/Slide1.PNG)
 ![](/img/music_sep/Slide2.PNG)
