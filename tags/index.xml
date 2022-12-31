@@ -9,7 +9,25 @@
       <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Year Note</title>
+      <link>https://ZeroAda.github.io/tags/year-note/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/tags/year-note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://ZeroAda.github.io/tags/computer-vision/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>data analysis</title>
       <link>https://ZeroAda.github.io/tags/data-analysis/</link>
@@ -43,6 +61,15 @@
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ZeroAda.github.io/tags/signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://ZeroAda.github.io/tags/first/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/tags/first/</guid>
       <description></description>
     </item>
     
