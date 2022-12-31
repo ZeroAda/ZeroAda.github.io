@@ -48,7 +48,7 @@ params:
   profileMode:
     enabled: true
     title: Orange
-    subtitle: Computer Engineering | Neuroscience
+    subtitle: Computer Engineering | Neuroscience 
     imageUrl: portrait.JPG
     imageWidth: 120
     imageHeight: 120

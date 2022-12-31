@@ -210,3 +210,156 @@ data scientist in Meta: $119,628 - $160,000/yr
 一些新的可以了解的学校项目：NYU, CMU
 一些地里的信息：https://www.1point3acres.com/bbs/thread-337864-1-1.html
 
+### 10.10
+听了talk，我的安排是
+1. 十月最好能将一个rl模型跑出来，这样有可以写的research，也可以推进项目
+2. 十月主要任务是套磁，修改文书；同时将bullet point发给老师们，写推荐信
+3. 十一月填写申请表，提交推荐信
+
+
+### 10.12
+处于不断重新决策的过程，我感觉自己的package申请有点难。从做RA和申请硕士两个选项来看，我更想做RA增加研究经历。
+另外，项目上面，我觉得现在和我的方向match的可能更多是偏cogitive science部分的program
+
+### 10.25
+在不断定位中。我发现自己最大的需求就是在做完现在的研究之后做一个neuron的项目。申请neuron很卷，所以有人建议我申请cs ms，或者biomedical engineering，biological science的。和hanzhe聊天，觉得晚一年申请也没事。
+
+### 思考 10.28 night
+
+#### 1. 曲线救国思路
+
+目标：读neuroAI PHD
+
+加成
+
+1. neuroAI研究经历
+2. 与美国教授合作
+3. 在美国读研究生（CS,EE)（institute）
+
+#### 2. 重新调整目标思路
+
+我感觉我不得不面对的情况是，如果phd一个都没有申请到，eecs的offer到了，我要去哪里？两三年的期待和努力归0，这是一个悲观的叙述方式。换一个思路，这也是一个学习AI的机会，is that right?
+
+而且，进入graduate的我可能会觉得自己现在的焦虑是不必要的，因为我仍然会遇到最fit的安排。
+
+如果是以前的lcy，她会怎么想呢？从更大的尺度来说，graduate program是一个channel，将我输送到国外学习生活，看更大的世界，that's it。要说能赚更多的钱，是附加的事情。也许我做对了phd的选择，但是遇到了更大的困难而不得不放弃phd，这也是有可能的。也许我能够到的地方是有限的，不是最“好”的，但是也是最好的安排。.
+
+我知道我自己想做什么不想做什么吗？
+
+- 我想学人工智能，如果是AI项目的话我愿意去
+- 我想学神经科学，如果是neuro项目的话我也愿意去
+- 如果有neuron的RA（很好的那种，例如MIT)，我也会去
+
+今天朋辈辅导写了一封信给一个大三的sds学生，ta正在应对期中考试，想要得到全A来申请直博。感慨好多！看到一年前的自己，写的文字是写给ta也是写给我自己。
+
+
+### 11.11
+**申请问题**
+1. 如果陶瓷了老师没有回复，要不要写他的名字？
+
+
+
+申请todo
+1. 问james dicarlo 招不招生(已经发邮件)(没有回复qwq)
+2. 咨询phone - 
+	caiwei
+	alison gopnik
+3. 咨询berkeley的成绩单
+	没有cgpa，需要上传berkeley的成绩转换表格吗？
+4. grading system: 看成绩单上写了什么（成绩单背面，见lyy聊天记录！）
+5. MIT toefl score 传到哪里？ (已经在问)
+6. 申请表里的经历需要什么格式吗？ 直接copy上去就可以
+
+
+### 11.12
+错过了gre报名时间，我一直拖延，我平常不这样做。但是我拖延了。这说明？我内心不想做这件事情？
+
+### 11.14
+现在已经到了想到申请就引起心理不适的程度了。总的来说就是觉得自己竞争力不够，对申请形势不明朗，不知道该怎么办的阶段；写文书和套磁的动力快没了。qwq好崩溃。
+
+### 11.19
+NYU: 允许申请不同学院的项目
+
+Neuro：Graduate School of Arts and Science (GSAS)
+CS Tandon：Tandon Of Engineering
+CS Courant：GSAS
+
+neuron和tandon cs可以一起申请，courant不可以和neuron一起申请
+* tandon的时候需要填tandon 的心仪教授
+  * 矛盾来了，如果我申请tandon，可以在入学之后转到别的学院吗? 可能不行。。。。
+* 只申请courant？qwq感觉也要亡了。
+问了wangxiaojing老师，还没有回复，等回复以后再看？
+* 觉得在nyu读master也是可以的！
+
+### 11.20
+ETH 项目：
+1. 有两个，选neural computation！
+2. 申请的入口不一样？
+   
+https://www.nsc.uzh.ch/en/Admission/Apply.html
+or
+https://www.lehrbetrieb.ethz.ch/eApply/ealogin.view?lang=en
+
+写了all application handled by zurich, 是不是只要填上面的就可以？
+yes 下面的portal是没有这个项目的
+3. 申请的时候成绩单应该叫什么
+4. 我校是否有课程描述？
+
+
+我现在的问题在于没有陶瓷过的学校要不要申请，以及还要继续陶瓷qwq
+继续陶瓷：Berkeley，Washington，Stanford
+开始陶瓷：Upenn，Yale，Duke，Princeton
+
+### 11.21
+在给自己写推荐信的时候，意识到自己不是一个top player，我可能就是有很多热情，有主动性，很爱学习这件事情，但是我不是最能抓住机会，想出idea，走直路的人（指的是，科研里有创新成果，能够和老师保持很好的联系，能够allocate 很好的推荐信资源）。
+
+### 11.22 推荐信
+
+推荐信初稿：比较细致
+老师不会加内容，只会删减。
+
+和老师沟通一下：最好是**当面聊！！！**
+1. 申请目标：表示推荐信是很重要的；推荐信送到了哪里？学校的建议？愿意交多少推荐信？选校是否合理？加什么项目？
+2. 需要是强推！
+3. busy的时候，改完推荐信是需要我交还是？--千万不要用同一个电脑提交（ip）
+4. face to face 聊一下！coffee chat！
+5. 小老板写完，大老板签字：主动给文书初稿和cv，以及突出什么能力技能!!!+不会给我看+给一个强推！----教授在国外要联系紧密一点etc
+
+**签字-pdf**
+老师会打分：上传推荐信，同时打分-在申请人中top多少？
+
+dear admission comittee title和排版要变化，格式不一样！多参考一些格式
+
+
+* think about 请肖肖帮忙写推荐信
+
+草了，princeton已经过期
+cornell要wes认证
+
+### 11.23
+todo:
+1. 向xiaoxiao要推荐信[?]: 先不找？
+2. 给各个老师发draft+学校list[x]
+3. 继续套磁+选校开始填写[x]
+4. 写personal history statement
+5. 发送托福成绩[x]
+
+
+* 发送推荐信link！
+
+### 12.4 
+经过一系列挣扎和努力，终于在12.1 pst ddl前提交了网申。继续加油。
+
+### 12.11
+Time flies!
+
+
+Somebody moves on, to the new winter.
+
+Somebody lies on, the old rose.
+
+Somebody dreams of, the beautiful sunshine.
+
+Somebody struggles with, loneliness.
+
+看到身边的同学，或间接了解到，她们申请了厉害的学校，有着很有竞争力的package，同在一个竞争pool里的我问自己“有什么理由让你进入而不是她们呢？”

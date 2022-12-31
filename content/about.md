@@ -6,7 +6,7 @@ searchHidden: true
 
 ---
 
-Hi, I’m Chenyi Li 🍊. My current area of interest are Computational Neuroscience & Cognitive Neuroscience, Creative Programming. Feel free to talk with me!
+Hi, I’m Chenyi Li 🍊. My current area of interest are Computational Neuroscience & Cognitive Neuroscience, Creative Programming. And I'm also a violin beginner. Feel free to talk with me about everything!
 
 ## Education ✍️
 
