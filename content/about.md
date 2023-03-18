@@ -6,7 +6,7 @@ searchHidden: true
 
 ---
 
-Hi, I’m Chenyi Li 🍊. My current area of interest are Computational Neuroscience & Cognitive Neuroscience, Creative Programming. And I'm also a violin beginner. Feel free to talk with me about everything!
+Hi, I’m Chenyi Li 🍊 (violin beginner 🎻, coffee person). My current area of interest are Computational Neuroscience & Cognitive Neuroscience, Creative Programming. I'm also interested in Web3! Feel free to talk with me about everything!
 
 ## Education ✍️
 
@@ -67,9 +67,10 @@ Oct. 2020 - May. 2021
 ## Project Experience 🛠️
 Dec.1-5 2021
 : **IDEA: Decentralized Academic Peer Review Application**                                               	    	    
-•	Built up an on-chain decentralized anonymous peer-review system with reputation hub
-•   Enabled reproducibility check in the review process
-•   Developed open access publication based on a token system
+•	Built up an on-chain decentralized anonymous peer-review system with reputation hub      
+•	Enabled reproducibility check in the review process  
+•	Developed open access publication based on a token system
+
 
 Sept.9-12 2021
 : **CUMCM: Raw Materials Ordering and Transportation Strategies with Mathematical Modeling**                                               	    	    
@@ -90,10 +91,10 @@ July 2021-Sept. 2022
 ## Presentation
 
 Aug. 2022
-: [**NCC Lab Presentation | Learning to Reinforcement Learn**](https://github.com/ZeroAda/ncc1)
+: [**NCC Lab Presentation | Learning to Reinforcement Learn**](https://zeroada.github.io/ncc1/)
 
 Dec. 2022
-: [**NCC Lab Presentation | The neural architecture of language: Integrative modeling converges on predictive processing**](https://github.com/ZeroAda/ncc2)
+: [**NCC Lab Presentation | The neural architecture of language: Integrative modeling converges on predictive processing**](https://zeroada.github.io/ncc2/)
 
 
 
