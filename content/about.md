@@ -65,6 +65,12 @@ Oct. 2020 - May. 2021
 •	Conducted literature review on reinforcement learning applications in city traffic light control
 
 ## Project Experience 🛠️
+Dec.1-5 2021
+: **IDEA: Decentralized Academic Peer Review Application**                                               	    	    
+•	Built up an on-chain decentralized anonymous peer-review system with reputation hub
+•   Enabled reproducibility check in the review process
+•   Developed open access publication based on a token system
+
 Sept.9-12 2021
 : **CUMCM: Raw Materials Ordering and Transportation Strategies with Mathematical Modeling**                                               	    	    
 •	Applied K-means and time series analysis on the supply-demand data of 402 raw material suppliers      
