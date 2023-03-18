@@ -34,14 +34,14 @@ in EEG Signals](https://arxiv.org/abs/2112.00989)
 Code: [DeepSeparator](https://github.com/ncclabsustech/DeepSeparator)
 
 ## Research Experience 📚
+Feb. 2023 - Present
+: **Research Assistant | Liu Lab**		   	 	       
+**Advisor**: Yunzhe Liu, Professor at Chinese Institute for Brain Research   
+•	Implemented RNN Meta-Reinforcement Learning with Replay     
+•	Combined meta-RL with Tolman Eichenbaum Machine Model 
 
-Sept. 2022 - Present
-: **Final Year Project | Generation and Analysis of Pixels, Points and Polygons Lab**     
-**Advisor**: Xiaoguang Han, Assistant Professor at School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen    
-•   Caricature-Visual Verification
 
-
-Jun. 2022 - Present
+Jun. 2022 - Jan. 2023
 : **Research Assistant | Cognitive Developmental and Learning Lab**		   	 	       
 **Advisor**: Alison Gopnik, Professor at Department of Psychology, University of California, Berkeley   
 •	Conducted literature research on intrinsic reward reinforcement learning and applied the unsupervised meta-learning     
@@ -71,6 +71,11 @@ Dec.1-5 2021
 •	Enabled reproducibility check in the review process  
 •	Developed open access publication based on a token system
 
+Sept. 2022 - Dec. 2022
+: **Final Year Project | **     
+<!-- **Advisor**: Xiaoguang Han, Assistant Professor at School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen     -->
+•   
+
 
 Sept.9-12 2021
 : **CUMCM: Raw Materials Ordering and Transportation Strategies with Mathematical Modeling**                                               	    	    
@@ -95,7 +100,6 @@ Aug. 2022
 
 Dec. 2022
 : [**NCC Lab Presentation | The neural architecture of language: Integrative modeling converges on predictive processing**](https://zeroada.github.io/ncc2/)
-
 
 
 ## Skills 🪄

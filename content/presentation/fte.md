@@ -37,5 +37,3 @@ This is my final project of the class FTE4312 Blockchain and Decentralized Appli
 ![](/img/FTE_project/16.jpg)
 ![](/img/FTE_project/17jpg)
 ![](/img/FTE_project/18.jpg)
-
-
