@@ -72,10 +72,9 @@ Dec.1-5 2021
 •	Developed open access publication based on a token system
 
 Sept. 2022 - Dec. 2022
-: **Final Year Project | **     
-<!-- **Advisor**: Xiaoguang Han, Assistant Professor at School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen     -->
-•   
-
+: **Final Year Project | Face Attribute Editing by StyleGAN**     
+•	Explored the disentanglement features of the hidden space in StyleGAN      
+•	Developed a novel pipeline for multi-face attribute editing using disentanglement
 
 Sept.9-12 2021
 : **CUMCM: Raw Materials Ordering and Transportation Strategies with Mathematical Modeling**                                               	    	    
