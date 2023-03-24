@@ -9,7 +9,16 @@
       <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graph Convolution Neural Network</title>
+      <link>https://ZeroAda.github.io/posts/gcn/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/gcn/</guid>
+      <description>GCN GCN originates from the article SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS. Suppose there is a undirected graph G(V,E) with vertices V and edges E. It has an adjacency matrix A(VxV). Each node has a feature and the feature matrix is X(VxN) We want to classify the nodes into M categories using neural network f(X,A). $$ f(X,A) = softmax(\hat{A} ReLU(\hat{A} XW(0))W(1)) $$ where $$ \hat{A} = D^{-\frac{1}{2}}AD^{-\frac{1}{2}} $$ It computes the symmetrically normalized adjacency matrix of G.</description>
+    </item>
+    
     <item>
       <title>2022年书影札记</title>
       <link>https://ZeroAda.github.io/posts/2022_year/</link>
