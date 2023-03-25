@@ -9,7 +9,20 @@
       <link>https://ZeroAda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ZeroAda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSH connection issue</title>
+      <link>https://ZeroAda.github.io/posts/ssh_issue/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ZeroAda.github.io/posts/ssh_issue/</guid>
+      <description>I always encounter some ssh issue.
+Resource temporarily unavailable One day&amp;hellip;
+&amp;gt; ssh -T git@github.com ssh: connect to host ssh.github.com port 22: Resource temporarily unavailable so there are several assumptions:
+windows firewall block port 22 I do not generate ssh key for my github account I do not configure my config file properly SSH dies I suggest following the steps below:
+restart ssh sudo service ssh restart reinstall ssh sudo apt-get remove openssh-server sudo apt-get install openssh-server generate ssh key for you github account generate ssh key</description>
+    </item>
+    
     <item>
       <title>Graph Convolution Neural Network</title>
       <link>https://ZeroAda.github.io/posts/gcn/</link>
