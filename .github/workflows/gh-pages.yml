@@ -8,7 +8,7 @@ on:
 
 jobs:
   hugo:
-    runs-on: macos-13
+    runs-on: macos-latest
 
     steps:
       - uses: actions/checkout@v2
