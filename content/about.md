@@ -9,16 +9,25 @@ searchHidden: true
 Hi, I’m Chenyi Li 🍊 (violin beginner 🎻, coffee person). My current area of interest are Computational Neuroscience & Cognitive Neuroscience, Creative Programming. I'm also interested in Web3! Feel free to talk with me about everything!
 
 ## Education ✍️
+Sept. 2023 - May. 2025
+: **Master of Science** in Computer Science, New York University, Tandon School of Engineering    
+**GPA**   4.0/4.0   
+**Core Course**: Computational Neuroscience, Algorithmic Machine Learning and Data Science, Neuroinformatics (in progress)
+
+
+Sept. 2019 - Jun. 2023
+: **Bachelor of Engineering** in Computer Engineering, The Chinese University of Hong Kong, Shenzhen                 
+**First Class Honors**      
+**Core Course**: Graduate Course Advanced Machine Learning, Computer Vision, Neural system(A-), Machine Learning(B+), Signal Processing(A-), Data Structure(B+), Linear Algebra(A), Operating System(A-), Optimization(B+)       
+***Dean's List (2019-2020, 2020-2021, top 25%)                                   Undergraduate Research Award (2020)***
 
 Jan. 2022 - Aug. 2022
 : **Visiting Student**, University of California, Berkeley     
 **Core Course**: Computational Model of Cognition(A+), Algorithm(B+), Artificial Intelligence
 
-Sept. 2019 - Jun. 2023
-: **Bachelor of Engineering** in Computer Engineering, The Chinese University of Hong Kong, Shenzhen                 
-**CGPA**: 3.58/4.0, Ranking: 17/74(22%)      
-**Core Course**: Graduate Course Advanced Machine Learning, Computer Vision, Neural system(A-), Machine Learning(B+), Signal Processing(A-), Data Structure(B+), Linear Algebra(A), Operating System(A-), Optimization(B+)       
-***Dean's List (2019-2020, 2020-2021, top 25%)                                   Undergraduate Research Award (2020)***
+July 1 – July 22 2023
+: **The 11th Computational and Cognitive Neuroscience Summer School by CSHA**	                       
+**Core Course**: Dynamical System, Neural Coding, Computational Model, Low-Rank RNN 
 
 Aug.2-20 2021
 : [**Neuromatch Academy-Deep Learning Summer School 2021 Certificate of Completion**](https://portal.neuromatchacademy.org/certificate/3e84b5f0-7487-4b98-8822-82047f07b503)	
@@ -34,12 +43,18 @@ in EEG Signals](https://arxiv.org/abs/2112.00989)
 Code: [DeepSeparator](https://github.com/ncclabsustech/DeepSeparator)
 
 ## Research Experience 📚
-Feb. 2023 - Present
+Sep. 2023 – present
+: **Mattar Lab | Research Assistant**
+**Advisor**: Marcelo Mattar, Assistant Professor of Psychology and Neural Science
+•	Implemented Decision-Transformer in a maze navigation game to do adaptive planning
+
+
+Feb. 2023 - May. 2023
 : **Research Assistant | Liu Lab**		   	 	       
 **Advisor**: Yunzhe Liu, Professor at Chinese Institute for Brain Research   
 •	Implemented RNN Meta-Reinforcement Learning with Replay     
 •	Combined meta-RL with Tolman Eichenbaum Machine Model 
-
+•	Proposed to combine meta-RL with Tolman Eichenbaum Machine Model
 
 Jun. 2022 - Jan. 2023
 : **Research Assistant | Cognitive Developmental and Learning Lab**		   	 	       
