@@ -1,6 +1,6 @@
 --- 
 title: Gender Equality
-layout: visualization
+layout: world
 date: 2024-05
 description: Data visualization of gender equality
 showReadingTime: false
